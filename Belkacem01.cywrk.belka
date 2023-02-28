@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Belkacem01</v>
+<v>Belkacem01\Design01</v>
+<v>Belkacem01\Design01\TopDesign</v>
+<v>Belkacem01\Design01\Design01.cydwr</v>
+<v>Belkacem01\Design01\Design01.cydwr\Pins</v>
+<v>Belkacem01\Design01\Design01.cydwr\Analog</v>
+<v>Belkacem01\Design01\Design01.cydwr\Clocks</v>
+<v>Belkacem01\Design01\Design01.cydwr\Interrupts</v>
+<v>Belkacem01\Design01\Design01.cydwr\System</v>
+<v>Belkacem01\Design01\Design01.cydwr\Directives</v>
+<v>Belkacem01\Design01\Design01.cydwr\Flash Security</v>
+<v>Belkacem01\Design01\Header Files</v>
+<v>Belkacem01\Design01\Header Files\cyapicallbacks.h</v>
+<v>Belkacem01\Design01\Source Files</v>
+<v>Belkacem01\Design01\Source Files\main.c</v>
+<v>Belkacem01\Design01\Generated_Source\PSoC4</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Belkacem01</v>
+<v>Belkacem01\Design01</v>
+<v>Belkacem01\Design01\TopDesign</v>
+<v>Belkacem01\Design01\Design01.cydwr</v>
+<v>Belkacem01\Design01\Design01.cydwr\Pins</v>
+<v>Belkacem01\Design01\Design01.cydwr\Analog</v>
+<v>Belkacem01\Design01\Design01.cydwr\Clocks</v>
+<v>Belkacem01\Design01\Design01.cydwr\Interrupts</v>
+<v>Belkacem01\Design01\Design01.cydwr\System</v>
+<v>Belkacem01\Design01\Design01.cydwr\Directives</v>
+<v>Belkacem01\Design01\Design01.cydwr\Flash Security</v>
+<v>Belkacem01\Design01\Header Files</v>
+<v>Belkacem01\Design01\Header Files\cyapicallbacks.h</v>
+<v>Belkacem01\Design01\Source Files</v>
+<v>Belkacem01\Design01\Source Files\main.c</v>
+<v>Belkacem01\Design01\Generated_Source</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Belkacem01</v>
+<v>Belkacem01\Design01</v>
+<v>Belkacem01\Design01\TopDesign</v>
+<v>Belkacem01\Design01\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Belkacem01</v>
+<v>Belkacem01\Design01</v>
+<v>Belkacem01\Design01\TopDesign</v>
+<v>Belkacem01\Design01\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Belkacem01</v>
+<v>Belkacem01\Design01</v>
+<v>Belkacem01\Design01\CortexM0p</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\ClockHydro.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\Cm0plusStart.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\CTRLHydroponic_Control.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\CTRLHydroponic_DigPrt2.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\CTRLHydroponic_Filter.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\CTRLHydroponic_ISR.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\CTRLHydroponic_Processing.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\CTRLHydroponic_Sensing.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\CTRLHydroponic_SensingISX_LL.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\CTRLHydroponic_Structure.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\CTRLHydroponic_Tuner.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\LEDONOFF.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\LEDONOFF_PM.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\LEDPUMP.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\LEDPUMP_PM.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\LEDWTRLVL.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\LEDWTRLVL_PM.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\PWMTank.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\PWMTank_PM.lst</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Design01.elf</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Design01.hex</v>
+<v>Belkacem01\Design01\CortexM0p\ARM_GCC_541\Debug\Design01.map</v>
+<v>Belkacem01\Design01\Design01.gpdsc</v>
+<v>Belkacem01\Design01\Design01.rpt</v>
+<v>Belkacem01\Design01\Design01_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Belkacem01</v>
+<v>Belkacem01\Design01</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Belkacem01</v>
+<v>Belkacem01\Design01</v>
+<v>Belkacem01\Design01\PSoC 4 Architecture TRM</v>
+<v>Belkacem01\Design01\PSoC 4700S Family Datasheet</v>
+<v>Belkacem01\Design01\System Reference Guides</v>
+<v>Belkacem01\Design01\System Reference Guides\cy_boot_v6_0</v>
+<v>Belkacem01\Design01\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Belkacem01\Design01\MagSense_P4_v7_0.pdf</v>
+<v>Belkacem01\Design01\cy_clock_v2_20.pdf</v>
+<v>Belkacem01\Design01\cy_pins_v2_20</v>
+<v>Belkacem01\Design01\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Belkacem01\Design01\LED_v1_0</v>
+<v>Belkacem01\Design01\LED_v1_0\LED_v1_0.pdf</v>
+<v>Belkacem01\Design01\Power_v1_0</v>
+<v>Belkacem01\Design01\Power_v1_0\Power_v1_0.pdf</v>
+<v>Belkacem01\Design01\Resistor_v1_0</v>
+<v>Belkacem01\Design01\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>Belkacem01\Design01\TCPWM_P4_v2_10.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Belkacem01</v>
+<v>Belkacem01\Design01</v>
+<v>Belkacem01\Design01\PSoC 4 Architecture TRM</v>
+<v>Belkacem01\Design01\PSoC 4700S Family Datasheet</v>
+<v>Belkacem01\Design01\System Reference Guides</v>
+<v>Belkacem01\Design01\System Reference Guides\cy_boot_v6_0</v>
+<v>Belkacem01\Design01\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Belkacem01\Design01\MagSense_P4_v7_0.pdf</v>
+<v>Belkacem01\Design01\cy_clock_v2_20.pdf</v>
+<v>Belkacem01\Design01\cy_pins_v2_20</v>
+<v>Belkacem01\Design01\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Belkacem01\Design01\LED_v1_0</v>
+<v>Belkacem01\Design01\LED_v1_0\LED_v1_0.pdf</v>
+<v>Belkacem01\Design01\Power_v1_0</v>
+<v>Belkacem01\Design01\Power_v1_0\Power_v1_0.pdf</v>
+<v>Belkacem01\Design01\Resistor_v1_0</v>
+<v>Belkacem01\Design01\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>Belkacem01\Design01\TCPWM_P4_v2_10.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Design01.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Design01.cydsn\Design01.cydwr" />
+<name v=".\Design01.cydsn\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1041, 391" SelectedTabbedMdiWindow="de08d3f4-ea63-4ea8-8fca-792122475b18"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="e2fef908-885e-4b4f-86da-0933f97ff4e1" /><DocumentWindow Key="D:\entreprise\infeneon\design\Belkacem01\Design01.cydsn\TopDesign\TopDesign.cysch" Guid="94e9288c-9c08-4e5a-9321-76d63223ae2e" /><DocumentWindow Key="D:\entreprise\infeneon\design\Belkacem01\Design01.cydsn\Design01.cydwr" Guid="3f13657e-4873-4198-9a87-1b108cd47f1b" /><DocumentWindow Key="D:\entreprise\infeneon\design\Belkacem01\Design01.cydsn\main.c" Guid="de08d3f4-ea63-4ea8-8fca-792122475b18" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
